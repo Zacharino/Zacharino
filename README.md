@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zacharino
+- 👋 Hi, I’m Zach
 - 👀 I’m interested in big gaming, occasional code and breaking stuff
 - 🌱 I’m currently learning React/Gatsby.js/Discord.js/C# (yes I like pain)
 - 💞️ I’m looking to collaborate on any and all Hardstuck projects that are thrown my way
